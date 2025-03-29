@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077495949379",
+    "project_id": "chineselens-33f92",
+    "storage_bucket": "chineselens-33f92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077495949379:android:239f65b634730ae8d70cf6",
+        "android_client_info": {
+          "package_name": "com.chineselens.chinese_lens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTmR_6uud6-zR2cRh987r9no7WKHspO38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
